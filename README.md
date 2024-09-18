@@ -1,3 +1,12 @@
+To use (`package.json`):
+```
+{
+  "dependencies": {
+    "spotify-card": "github:Rocky-pup/spotify-card-updated-skia"
+  }
+}
+```
+
  Generate song embeds easily !
  
 ![Preview](media/preview.png)
